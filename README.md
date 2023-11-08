@@ -2,7 +2,7 @@
 # A Sum Combinations Finder
 
 This script helps you find all unique combinations of numbers that add up to a specific target sum.
-Prompted by Lester Tax, Inc.
+/nPrompted by Lester Tax, Inc.
 v0.23.11.08
 
 ## Requirements
